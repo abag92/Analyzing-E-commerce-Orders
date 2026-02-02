@@ -15,4 +15,4 @@ This project analyzes Brazilian e-commerce order data to understand payment tren
 - Business insights & recommendations
 
 ## File
-- Analyzing_Ecommerce Orders.ipynb
+- Analyzing_E_commerce_Orders.ipynb
